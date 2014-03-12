@@ -21,7 +21,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>..\FiscaRuntime\addmodules\GoogleDrive\</OutputPath>
+    <OutputPath>bin\Debug\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -37,24 +37,31 @@
   <ItemGroup>
     <Reference Include="DotNetOpenAuth">
       <HintPath>Google API\DotNetOpenAuth.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Google.Apis">
       <HintPath>Google API\Google.Apis.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Google.Apis.Authentication.OAuth2">
       <HintPath>Google API\Google.Apis.Authentication.OAuth2.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Google.Apis.Drive.v2">
       <HintPath>Google API\Google.Apis.Drive.v2.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Google.Apis.Oauth2.v2">
       <HintPath>Google API\Google.Apis.Oauth2.v2.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="log4net">
       <HintPath>Google API\log4net.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Newtonsoft.Json.Net35">
       <HintPath>Google API\Newtonsoft.Json.Net35.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
