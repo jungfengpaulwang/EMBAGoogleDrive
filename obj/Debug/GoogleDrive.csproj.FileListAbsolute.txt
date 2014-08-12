@@ -25,24 +25,3 @@ E:\github\NTU_EMBA\FiscaRuntime\addmodules\GoogleDrive\GoogleDrive.dll
 E:\github\NTU_EMBA\FiscaRuntime\addmodules\GoogleDrive\GoogleDrive.pdb
 E:\ischool source\EMBARuntime\addmodules\GoogleDrive.dll
 E:\ischool source\EMBARuntime\addmodules\GoogleDrive.pdb
-E:\github\NTU_EMBA\GoogleDrive\bin\Debug\GoogleDrive.dll
-E:\github\NTU_EMBA\GoogleDrive\bin\Debug\GoogleDrive.pdb
-E:\github\NTU_EMBA\GoogleDrive\bin\Debug\DotNetOpenAuth.dll
-E:\github\NTU_EMBA\GoogleDrive\bin\Debug\Google.Apis.Authentication.OAuth2.dll
-E:\github\NTU_EMBA\GoogleDrive\bin\Debug\Google.Apis.dll
-E:\github\NTU_EMBA\GoogleDrive\bin\Debug\Google.Apis.Drive.v2.dll
-E:\github\NTU_EMBA\GoogleDrive\bin\Debug\Google.Apis.Oauth2.v2.dll
-E:\github\NTU_EMBA\GoogleDrive\bin\Debug\log4net.dll
-E:\github\NTU_EMBA\GoogleDrive\bin\Debug\Newtonsoft.Json.Net35.dll
-E:\github\NTU_EMBA\GoogleDrive\bin\Debug\Google.Apis.xml
-E:\github\NTU_EMBA\GoogleDrive\bin\Debug\Google.Apis.Authentication.OAuth2.xml
-E:\github\NTU_EMBA\GoogleDrive\bin\Debug\Google.Apis.Drive.v2.xml
-E:\github\NTU_EMBA\GoogleDrive\bin\Debug\Google.Apis.Oauth2.v2.xml
-E:\github\NTU_EMBA\GoogleDrive\bin\Debug\Newtonsoft.Json.Net35.xml
-E:\github\NTU_EMBA\GoogleDrive\obj\Debug\Google.Apis.Helper.Forms.OAuth2AuthorizationDialog.resources
-E:\github\NTU_EMBA\GoogleDrive\obj\Debug\Google.Apis.Helper.Forms.OAuth2CodePanel.resources
-E:\github\NTU_EMBA\GoogleDrive\obj\Debug\Google.Apis.Helper.Forms.OAuth2IntroPanel.resources
-E:\github\NTU_EMBA\GoogleDrive\obj\Debug\GoogleDrive.Properties.Resources.resources
-E:\github\NTU_EMBA\GoogleDrive\obj\Debug\GoogleDrive.csproj.GenerateResource.Cache
-E:\github\NTU_EMBA\GoogleDrive\obj\Debug\GoogleDrive.dll
-E:\github\NTU_EMBA\GoogleDrive\obj\Debug\GoogleDrive.pdb
